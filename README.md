@@ -10,4 +10,4 @@ LeetCode
 
 | # | Title | Solution1 |Difficulty |Memo       |tag        |  
 |---| ----- | --------- |---------- |---------- |---------- |
-|989|[Add to array-form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [python](./algorithms/cpp/processTasksUsingServers/ProcessTasksUsingServers.cpp), [java](./algorithms/cpp/processTasksUsingServers/ProcessTasksUsingServers.cpp)|Medium|[...](...)|array|
+|989|[Add to array-form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [python](./day_01/solution.py), [java](./algorithms/cpp/processTasksUsingServers/ProcessTasksUsingServers.cpp)|Medium|[...](...)|array|
