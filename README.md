@@ -5,9 +5,9 @@ LeetCode
 
 ### LeetCode Algorithm
 
-(Notes: "🔒" means you need to buy a book from Leetcode)
+
 
 
 | # | Title | Solution1 |Difficulty |Memo       |tag        |  
 |---| ----- | --------- |---------- |---------- |---------- |
-|989|[Add to array-form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [python](./day_01/solution.py), [java](./day_01/solution.java)|Medium|[...](...)|array|
+|989|[Add to array-form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [python](./day_01/solution.py), [java](./day_01/solution.java)|Medium|[Intuition](./day_01/intuition.md)|array|
